@@ -8,7 +8,6 @@ Hi, I'm Yasaswi, a Cybersecurity Graduate.
 - Kali Linux
 - Nmap
 - Wireshark
-- ServiceNow
 - Python (Learning)
 
 ## Projects
@@ -25,4 +24,4 @@ Hi, I'm Yasaswi, a Cybersecurity Graduate.
 ### 4. Python Cybersecurity Scripts (Coming Soon)
 
 ## Contact
-LinkedIn: Add your LinkedIn URL here
+LinkedIn: www.linkedin.com/in/yasaswiramisetty
