@@ -17,11 +17,5 @@ Hi, I'm Yasaswi, a Cybersecurity Graduate.
 - Identified open ports and services
 - Documented findings and recommendations
 
-### 2. Wireshark Packet Analysis (Coming Soon)
-
-### 3. ServiceNow Incident Management (Coming Soon)
-
-### 4. Python Cybersecurity Scripts (Coming Soon)
-
 ## Contact
 LinkedIn: www.linkedin.com/in/yasaswiramisetty
